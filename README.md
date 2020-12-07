@@ -19,6 +19,25 @@ Try it!
 
 ## Usage
 
+Add it in your root build.gradle at the end of repositories:
+```gradle
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+<br>
+
+Add the dependency:
+```gradle
+dependencies {
+    implementation 'com.github.SEONGGYU96:RoundDialogLib:Tag'
+}
+```
+<br>
+
 You can make the dialog using `RoundDialogBuilder`
 ```kotlin
 RoundDialogBuilder()
