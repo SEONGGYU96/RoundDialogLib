@@ -1,0 +1,3 @@
+include ':RoundDialogLib'
+include ':app'
+rootProject.name = "RoundDialogDemo"

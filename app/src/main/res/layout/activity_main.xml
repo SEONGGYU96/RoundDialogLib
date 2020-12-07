@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button_normal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="normal" />
+
+    <Button
+        android:id="@+id/button_only_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="only button" />
+
+    <Button
+        android:id="@+id/button_ok_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yes or No" />
+
+    <Button
+        android:id="@+id/button_edittext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="content - EditText" />
+
+    <Button
+        android:id="@+id/button_colorful"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="colorful" />
+
+    <Button
+        android:id="@+id/button_more_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="more button"/>
+
+    <Button
+        android:id="@+id/button_more_more"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="more more button"/>
+
+    <Button
+        android:id="@+id/button_wired"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="who the hell would use this..."/>
+
+</LinearLayout>
