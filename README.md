@@ -183,6 +183,7 @@ RoundDialogBuilder()
     .show(supportFragmentManager, "wired")
 ```  
 <br>
+Designed by Lee Yeong Jin
 
 ## License
 Copyright (c) 2020 KIM SEONG GYU 
