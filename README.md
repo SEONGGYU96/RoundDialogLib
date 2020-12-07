@@ -33,7 +33,7 @@ allprojects {
 Add the dependency:
 ```gradle
 dependencies {
-    implementation 'com.github.SEONGGYU96:RoundDialogLib:Tag'
+    implementation 'com.github.SEONGGYU96:RoundDialogLib:1.1.0'
 }
 ```
 <br>
