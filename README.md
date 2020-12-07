@@ -3,13 +3,13 @@
 [![](https://jitpack.io/v/SEONGGYU96/RoundDialogLib.svg)](https://jitpack.io/#SEONGGYU96/RoundDialogLib)  
 
 ## Preview
----
+
 
 <img width="300" src="https://user-images.githubusercontent.com/57310034/101352645-d2c13900-38d5-11eb-9c4d-5bf638be8117.gif"/> <img width="300" src="https://user-images.githubusercontent.com/57310034/101352778-fd12f680-38d5-11eb-9a17-52387dec52ba.gif"/>  
 
 
 ## Describe
----
+
 
 It is a dialog which has round edge with simple design.  
 So it goes well with almost Android applications.  
@@ -18,7 +18,7 @@ It provide a lot of attributes to custom dialog.
 Try it!  
 
 ## Usage
----
+
 You can make the dialog using `RoundDialogBuilder`
 ```kotlin
 RoundDialogBuilder()
@@ -33,7 +33,7 @@ RoundDialogBuilder()
 ```
 
 ## Attributes
---- 
+ 
 1. `setTitle()` - Set title of RoundDialog.
 2. `setContentView()` - Add a content using layout.
 3. `setContentText()` - Add a content as a text.
@@ -45,7 +45,7 @@ RoundDialogBuilder()
 9. `enableCancel()` - enable or disable to close the dialog by touching the outside of it.
 
 ## Sample
---- 
+ 
 <img width="300" src="https://user-images.githubusercontent.com/57310034/101354517-a4912880-38d8-11eb-9e80-fb40f216901e.png"/>
 
 ```kotlin
