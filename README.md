@@ -14,7 +14,7 @@
 It is a dialog which has round edge with simple design.  
 So it goes well with almost Android applications.  
 If you need simple dialog but not default theme, You can use it!  
-It provide a lot of attributes to custom dialog.  
+It provide a lot of attributes to customize dialog.  
 Try it!  
 
 ## Usage
